@@ -1,0 +1,3 @@
+Version,Count,Mean,Median
+With all observations,24,111.17,111.75
+Without 99.5 observation,23,111.67,112.5
