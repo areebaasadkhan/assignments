@@ -1,0 +1,101 @@
+user_id,gender,age_group,city,product_category,payment_method,order_value,order_status
+U001,Male,25-34,Islamabad,Home Decor,JazzCash,1899.62,Pending
+U002,Female,25-34,Lahore,Electronics,EasyPaisa,1592.21,Cancelled
+U003,Female,25-34,Lahore,Books,Debit Card,3851.78,Cancelled
+U004,Female,18-24,Lahore,Home Decor,Cash on Delivery,1774.12,Pending
+U005,Female,35-44,Lahore,Home Decor,EasyPaisa,3611.28,Cancelled
+U006,Male,35-44,Faisalabad,Clothing,EasyPaisa,1280.5,Pending
+U007,Male,35-44,Karachi,Beauty,EasyPaisa,2052.17,Pending
+U008,Female,35-44,Faisalabad,Clothing,JazzCash,3146.54,Cancelled
+U009,Female,35-44,Lahore,Home Decor,Debit Card,2816.9,Cancelled
+U010,Female,25-34,Lahore,Home Decor,Debit Card,3981.16,Delivered
+U011,Male,18-24,Rawalpindi,Electronics,Debit Card,595.75,Pending
+U012,Male,18-24,Faisalabad,Electronics,Cash on Delivery,1659.14,Pending
+U013,Female,25-34,Faisalabad,Home Decor,Cash on Delivery,2648.79,Pending
+U014,Female,35-44,Faisalabad,Clothing,JazzCash,2650.95,Pending
+U015,Female,35-44,Karachi,Beauty,EasyPaisa,2735.57,Cancelled
+U016,Female,25-34,Rawalpindi,Books,Cash on Delivery,4109.9,Cancelled
+U017,Male,18-24,Karachi,Clothing,Cash on Delivery,4895.11,Delivered
+U018,Female,18-24,Faisalabad,Electronics,JazzCash,3261.89,Pending
+U019,Male,18-24,Faisalabad,Books,JazzCash,4585.75,Delivered
+U020,Female,18-24,Lahore,Beauty,JazzCash,4912.57,Cancelled
+U021,Female,35-44,Lahore,Clothing,Cash on Delivery,1729.68,Pending
+U022,Female,25-34,Islamabad,Home Decor,JazzCash,2665.03,Cancelled
+U023,Male,18-24,Faisalabad,Home Decor,Debit Card,1924.2,Delivered
+U024,Male,18-24,Karachi,Electronics,Cash on Delivery,1310.87,Cancelled
+U025,Male,35-44,Karachi,Books,EasyPaisa,3160.27,Delivered
+U026,Male,18-24,Karachi,Beauty,Debit Card,4903.2,Delivered
+U027,Male,18-24,Rawalpindi,Home Decor,Debit Card,3601.01,Cancelled
+U028,Female,18-24,Rawalpindi,Home Decor,Debit Card,3058.84,Delivered
+U029,Male,25-34,Lahore,Home Decor,Cash on Delivery,2073.01,Delivered
+U030,Male,35-44,Rawalpindi,Books,Debit Card,4785.78,Cancelled
+U031,Male,35-44,Rawalpindi,Beauty,EasyPaisa,4630.69,Cancelled
+U032,Male,25-34,Islamabad,Clothing,JazzCash,1345.65,Pending
+U033,Male,35-44,Lahore,Home Decor,JazzCash,1351.89,Pending
+U034,Female,18-24,Lahore,Home Decor,JazzCash,4084.73,Pending
+U035,Female,35-44,Islamabad,Beauty,Cash on Delivery,1900.39,Delivered
+U036,Female,35-44,Rawalpindi,Electronics,Debit Card,751.88,Pending
+U037,Female,18-24,Rawalpindi,Home Decor,JazzCash,1206.12,Cancelled
+U038,Male,18-24,Islamabad,Books,EasyPaisa,4212.77,Cancelled
+U039,Female,35-44,Islamabad,Clothing,EasyPaisa,4504.48,Delivered
+U040,Male,35-44,Karachi,Home Decor,Debit Card,1917.82,Pending
+U041,Male,35-44,Rawalpindi,Books,JazzCash,1368.67,Delivered
+U042,Male,18-24,Rawalpindi,Clothing,JazzCash,2631.27,Delivered
+U043,Female,35-44,Rawalpindi,Home Decor,EasyPaisa,1048.51,Cancelled
+U044,Male,25-34,Karachi,Beauty,Debit Card,3223.88,Delivered
+U045,Male,18-24,Karachi,Clothing,Debit Card,803.4,Cancelled
+U046,Male,25-34,Karachi,Beauty,EasyPaisa,1083.16,Pending
+U047,Male,35-44,Faisalabad,Beauty,Cash on Delivery,4752.53,Pending
+U048,Male,35-44,Rawalpindi,Home Decor,JazzCash,4739.24,Delivered
+U049,Female,35-44,Islamabad,Beauty,EasyPaisa,3923.44,Delivered
+U050,Male,35-44,Rawalpindi,Clothing,JazzCash,636.82,Pending
+U051,Male,25-34,Karachi,Electronics,EasyPaisa,3344.16,Pending
+U052,Female,25-34,Karachi,Home Decor,EasyPaisa,4431.13,Cancelled
+U053,Female,35-44,Islamabad,Home Decor,Cash on Delivery,3172.74,Delivered
+U054,Male,25-34,Faisalabad,Electronics,Cash on Delivery,3607.39,Cancelled
+U055,Male,35-44,Faisalabad,Books,Cash on Delivery,687.28,Delivered
+U056,Male,35-44,Faisalabad,Beauty,Cash on Delivery,3431.04,Pending
+U057,Male,25-34,Karachi,Beauty,Cash on Delivery,4760.21,Delivered
+U058,Male,25-34,Lahore,Home Decor,JazzCash,2634.92,Cancelled
+U059,Male,18-24,Lahore,Beauty,Cash on Delivery,2882.92,Cancelled
+U060,Female,35-44,Rawalpindi,Home Decor,EasyPaisa,2350.89,Pending
+U061,Female,25-34,Rawalpindi,Clothing,Debit Card,1320.33,Pending
+U062,Female,25-34,Faisalabad,Home Decor,Debit Card,3124.82,Delivered
+U063,Female,35-44,Islamabad,Clothing,EasyPaisa,1356.27,Delivered
+U064,Male,18-24,Rawalpindi,Beauty,EasyPaisa,558.0,Delivered
+U065,Male,35-44,Karachi,Electronics,Cash on Delivery,1936.76,Delivered
+U066,Female,35-44,Karachi,Beauty,EasyPaisa,3622.54,Delivered
+U067,Female,35-44,Islamabad,Home Decor,EasyPaisa,4189.46,Cancelled
+U068,Male,18-24,Faisalabad,Home Decor,Cash on Delivery,2893.63,Pending
+U069,Male,18-24,Lahore,Electronics,Cash on Delivery,4449.99,Delivered
+U070,Female,18-24,Karachi,Clothing,Debit Card,4308.34,Cancelled
+U071,Male,18-24,Rawalpindi,Beauty,Cash on Delivery,1036.9,Delivered
+U072,Male,18-24,Lahore,Clothing,JazzCash,2736.33,Pending
+U073,Female,35-44,Faisalabad,Beauty,JazzCash,3463.45,Pending
+U074,Female,25-34,Karachi,Home Decor,Debit Card,2565.82,Delivered
+U075,Female,18-24,Lahore,Books,JazzCash,3293.56,Pending
+U076,Female,18-24,Lahore,Clothing,JazzCash,1589.27,Delivered
+U077,Female,35-44,Islamabad,Electronics,Cash on Delivery,2914.24,Cancelled
+U078,Female,35-44,Islamabad,Electronics,Cash on Delivery,2910.87,Pending
+U079,Male,35-44,Karachi,Electronics,Debit Card,4721.3,Delivered
+U080,Male,18-24,Rawalpindi,Home Decor,Debit Card,3739.43,Pending
+U081,Female,25-34,Faisalabad,Electronics,Cash on Delivery,3833.98,Cancelled
+U082,Female,25-34,Karachi,Books,Cash on Delivery,865.58,Cancelled
+U083,Male,35-44,Rawalpindi,Clothing,Cash on Delivery,2834.25,Pending
+U084,Female,18-24,Islamabad,Clothing,EasyPaisa,4960.98,Cancelled
+U085,Male,25-34,Islamabad,Beauty,EasyPaisa,1467.31,Delivered
+U086,Female,18-24,Karachi,Electronics,JazzCash,1194.45,Delivered
+U087,Female,25-34,Lahore,Clothing,Cash on Delivery,769.62,Pending
+U088,Female,18-24,Islamabad,Clothing,EasyPaisa,2935.05,Delivered
+U089,Male,35-44,Islamabad,Electronics,JazzCash,2599.74,Delivered
+U090,Female,35-44,Karachi,Books,Debit Card,1292.71,Pending
+U091,Female,18-24,Faisalabad,Home Decor,EasyPaisa,2978.55,Pending
+U092,Male,35-44,Islamabad,Home Decor,JazzCash,4093.67,Delivered
+U093,Male,25-34,Islamabad,Home Decor,Debit Card,2697.45,Pending
+U094,Male,35-44,Islamabad,Clothing,JazzCash,2044.49,Pending
+U095,Male,25-34,Islamabad,Home Decor,JazzCash,4533.4,Pending
+U096,Male,35-44,Rawalpindi,Electronics,Cash on Delivery,3937.23,Pending
+U097,Male,18-24,Karachi,Clothing,Cash on Delivery,4613.47,Delivered
+U098,Male,25-34,Islamabad,Beauty,Cash on Delivery,2923.93,Delivered
+U099,Female,25-34,Karachi,Clothing,JazzCash,2536.79,Delivered
+U100,Female,18-24,Karachi,Electronics,JazzCash,4677.24,Pending
